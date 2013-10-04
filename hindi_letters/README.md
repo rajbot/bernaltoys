@@ -17,6 +17,8 @@ I set font size to 288 in Inkscape. Then I do the following:
 - Select text object
 - Path > Object to Path
 - Path > Break Apart
+- Path > Outset (to make the font weight bolder)
+- Remove fill and add stroke to the paths
 - Select each letter place it to minimize waste
 - Either hand-place each letter, or overlap them and choose Object > Align and Distribute
 - Use Align and Distribute > Remove overlaps with a setting of 5px
